@@ -1,0 +1,11 @@
+{
+  "id": "encourage-dict-use",
+  "name": "Encourage Dictionary Use",
+  "version": "0.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "Encourage you to use your electronic/paper dictionaries by visualizing your efforts/vocabulary",
+  "author": "Kodai Matsumoto",
+  "authorUrl": "https://github.com/0918nobita",
+  "fundingUrl": "https://github.com/sponsors/0918nobita",
+  "isDesktopOnly": false
+}

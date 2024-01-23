@@ -1,0 +1,21 @@
+{
+  "name": "@0918nobita/obsidian-encourage-dict-use",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "rspack build"
+  },
+  "dependencies": {
+    "zod": "3.22.4"
+  },
+  "devDependencies": {
+    "@rspack/cli": "0.5.1",
+    "obsidian": "1.4.11",
+    "prettier": "3.2.4",
+    "typescript": "5.3.3"
+  },
+  "prettier": {
+    "semi": true,
+    "singleQuote": true
+  }
+}
